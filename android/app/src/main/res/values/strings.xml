@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name">crowd-search</string>
+  <string name="expo_splash_screen_resize_mode" translatable="false">contain</string>
+  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string>
+  <string name="server_client_id">94014633436-0uiq38ob8giriageqcvt7k18jgasrcam.apps.googleusercontent.com</string>
+</resources>
